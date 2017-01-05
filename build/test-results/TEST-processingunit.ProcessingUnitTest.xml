@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="processingunit.ProcessingUnitTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2016-04-22T21:13:05" hostname="DESKTOP-FSUCAJD" time="0.012">
+  <properties/>
+  <testcase name="inputAStringAndReturnAllzBlockedFromTheString" classname="processingunit.ProcessingUnitTest" time="0.01"/>
+  <testcase name="inputAStringAndReturnAllCharactersMultipliedBy2" classname="processingunit.ProcessingUnitTest" time="0.001"/>
+  <testcase name="inputAStringAndReturnAllCharactersInUpperCase" classname="processingunit.ProcessingUnitTest" time="0.001"/>
+  <testcase name="inputAStringAndReturnzRemovedAndAllInUpperCaseAndMultipliedBy2" classname="processingunit.ProcessingUnitTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

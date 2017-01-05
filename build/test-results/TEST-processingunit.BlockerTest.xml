@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="processingunit.BlockerTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2016-04-22T21:13:05" hostname="DESKTOP-FSUCAJD" time="0.001">
+  <properties/>
+  <testcase name="blockFunctionalityChecker[0]" classname="processingunit.BlockerTest" time="0.001"/>
+  <testcase name="blockFunctionalityChecker[1]" classname="processingunit.BlockerTest" time="0.0"/>
+  <testcase name="blockFunctionalityChecker[2]" classname="processingunit.BlockerTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

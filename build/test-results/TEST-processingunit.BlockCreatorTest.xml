@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="processingunit.BlockCreatorTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2016-04-22T21:13:05" hostname="DESKTOP-FSUCAJD" time="0.005">
+  <properties/>
+  <testcase name="createMultiplierBlockFromInputString" classname="processingunit.BlockCreatorTest" time="0.003"/>
+  <testcase name="createzBlockerFromInputString" classname="processingunit.BlockCreatorTest" time="0.001"/>
+  <testcase name="createUpperCaseConverterBlockFromInputString" classname="processingunit.BlockCreatorTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
