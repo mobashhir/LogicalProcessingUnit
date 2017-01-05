@@ -72,3 +72,7 @@ Abstract Factory:
 Factory Method:
 
 Cascade Method Pattern:
+
+
+For Code coverage please refer to
+LogicalProcessingUnit\build\reports\coverageHtml
