@@ -16,6 +16,6 @@ public class BlockCreator {
             if (blockNameAndParameters.length == 2)
                 return (constructor.newInstance(blockNameAndParameters[1].charAt(0)));
             else
-                return (constructor.newInstance());
+                return (constructor.newInstance());  
     }
 }
