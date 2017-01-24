@@ -2,3 +2,4 @@ Blocker z
 MultiplierBlock
 UpperCaseConverterBlock
 LowerCaseConverterBlock
+UpperCaseConverterBlock
