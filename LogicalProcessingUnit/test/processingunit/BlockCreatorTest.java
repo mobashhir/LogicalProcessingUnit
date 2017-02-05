@@ -8,7 +8,6 @@ import static org.junit.Assert.assertEquals;
 
 
 public class BlockCreatorTest {
-
     BlockCreator blockCreator;
 
     @Before
