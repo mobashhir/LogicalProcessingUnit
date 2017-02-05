@@ -2,7 +2,7 @@
 Design of a logical characters processing unit. The processing unit will receive a series of characters as input and produce a series of characters as output. The unit may house any number of processing blocks. Not all blocks that are available may be used when creating a processing unit. Also, a block may be used more than once. The order in which the blocks are used may also vary.
                                                             
 
-		...input... -> | block1 block2 block3 ... | -> ...output....
+		....input... -> | block1 block2 block3 ... | -> ...output....
                          processing unit
 
 Examples of blocks and then revisit the processing unit.
